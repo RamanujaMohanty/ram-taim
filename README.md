@@ -11,11 +11,11 @@ CSC 317 - todos-API-stateless | Ramanuja Mohanty, 922147691
 - Added content from given server.js file.
 - Added content from given script.js file.
 - Added content from given style.css file.
----
-## Modifications
-- Formatted styl
+- Added content from given index.html file.
 ---
 ## Modifications
 - Formatted style.css.
 - Formatted script.js.
+- Formatted server.js.
+- Formatted index.html.
 ---
