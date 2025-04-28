@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RamanujaMohanty/ram-taim/issues"
   },
-  "homepage": "https://github.com/RamanujaMohanty/ram-taim#readme"
+  "homepage": "https://github.com/RamanujaMohanty/ram-taim#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
