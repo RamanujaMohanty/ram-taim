@@ -47,6 +47,10 @@ button {
     border-radius: 4px;
 }
 
+button:hover {
+	color: #ffffff;
+}
+
 #displayTodos {
     background-color: var(--display-btn);
     color: white;
